@@ -1,3 +1,1 @@
-SNH48 自动抢票小脚本
-需要自备python环境
-基于selenium自动化点击
+SNH48自动抢票小脚本,基于selenium自动化点击. 需要自备python环境,自行下载chromedriver以及自行配置
