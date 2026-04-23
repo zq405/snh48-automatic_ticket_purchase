@@ -1,1 +1,2 @@
-# snh48-
+需要自备python环境
+基于selenium自动化点击的小脚本
